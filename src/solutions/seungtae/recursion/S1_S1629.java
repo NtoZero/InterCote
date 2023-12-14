@@ -3,7 +3,7 @@ package solutions.seungtae.recursion;
 import java.util.*;
 import java.io.*;
 
-public class S1629 {
+public class S1_S1629 {
     /*
         - 권장 시간복잡도 : logN 이하 (b가 최대 21억번 연산되므로)
      */

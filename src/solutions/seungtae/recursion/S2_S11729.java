@@ -1,9 +1,8 @@
 package solutions.seungtae.recursion;
 
-import java.io.*;
 import java.util.*;
 
-public class S11729 {
+public class S2_S11729 {
     static StringBuilder sb = new StringBuilder();
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
